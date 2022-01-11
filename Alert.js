@@ -1,6 +1,6 @@
 SnapExtensions.primitives.set(
     'alert(txt)',
-    function(text) {
-        alert(text)
+    function(txt) {
+        alert(txt)
     }
 );
