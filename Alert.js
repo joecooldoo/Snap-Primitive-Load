@@ -1,6 +1,6 @@
 SnapExtensions.primitives.set(
-    'brs_alert(thing)',
-    function (thing) {
-        alert(thing);
+    'brs_alert(msg)',
+    function (msg) {
+        alert(msg);
     }
 );
