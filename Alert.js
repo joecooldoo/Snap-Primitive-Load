@@ -1,5 +1,5 @@
 SnapExtensions.primitives.set(
-    'browser_alert(txt)',
+    'brs_alert(txt)',
     function(txt) {
         alert(txt);
     }
